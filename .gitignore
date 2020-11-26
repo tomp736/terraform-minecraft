@@ -1,0 +1,7 @@
+secrets.tfvars
+*.tfstate*
+**/.terraform/**
+.serverassets/backups/**
+.serverassets/modpacks/**
+.serverassets/etc/**
+shvars
